@@ -1,0 +1,5 @@
+add_library(jobmanagement_ordermanagement jobmanagement_ordermanagement.grpc.pb.h jobmanagement_ordermanagement.grpc.pb.cc 
+jobmanagement_ordermanagement.pb.h jobmanagement_ordermanagement.pb.cc)
+
+install(TARGETS jobmanagement_ordermanagement DESTINATION lib)
+install(FILES jobmanagement_ordermanagement.grpc.pb.h DESTINATION include)

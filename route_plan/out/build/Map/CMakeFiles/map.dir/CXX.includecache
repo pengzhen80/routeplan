@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/source/simulator_server_track/route_plan/Map/map.cc
+map.h
+/root/source/simulator_server_track/route_plan/Map/map.h
+iostream
+-
+unordered_set
+-
+
+/root/source/simulator_server_track/route_plan/Map/map.h
+vector
+-
+unordered_set
+-
+

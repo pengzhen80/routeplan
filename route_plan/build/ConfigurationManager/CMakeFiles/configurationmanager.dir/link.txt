@@ -1,0 +1,2 @@
+/bin/ar qc libconfigurationmanager.a  CMakeFiles/configurationmanager.dir/configurationmanager.cc.o CMakeFiles/configurationmanager.dir/carmanager.cc.o CMakeFiles/configurationmanager.dir/mapmanager.cc.o
+/bin/ranlib libconfigurationmanager.a

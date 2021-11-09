@@ -1,0 +1,980 @@
+<cCarDrivingNodesApp Version="1.0" BGResolution="2048,2048" DebugFontScale="1.00000" RealWorldResolution="16050.00,16036.00" BG="Maps/NewTrack.png">
+    <cCarDrivingNodeManager Count="144">
+        <cCarDrivingNode CustomerTableID="-1" Name="1" NodeType="0" Speed="100" Pos="213.00,118.00,0.00" RFID="1901034923" RelativeNode="2" />
+        <cCarDrivingNode CustomerTableID="-1" Name="2" NodeType="0" Speed="100" Pos="713.00,118.00,0.00" RFID="1901034933" RelativeNode="3,143" />
+        <cCarDrivingNode CustomerTableID="-1" Name="3" NodeType="0" Speed="100" Pos="781.00,118.00,0.00" RFID="1901034974" RelativeNode="81" />
+        <cCarDrivingNode CustomerTableID="-1" Name="4" NodeType="0" Speed="100" Pos="1143.00,118.00,0.00" RFID="1901034996" RelativeNode="5,142" />
+        <cCarDrivingNode CustomerTableID="-1" Name="5" NodeType="0" Speed="100" Pos="1177.00,153.00,0.00" RFID="1901034924" RelativeNode="88" />
+        <cCarDrivingNode CustomerTableID="-1" Name="6" NodeType="0" Speed="100" Pos="1177.00,335.00,0.00" RFID="1901034953" RelativeNode="7" />
+        <cCarDrivingNode CustomerTableID="-1" Name="7" NodeType="0" Speed="100" Pos="1212.00,370.00,0.00" RFID="1901034997" RelativeNode="89" />
+        <cCarDrivingNode CustomerTableID="-1" Name="8" NodeType="0" Speed="100" Pos="1356.00,370.00,0.00" RFID="2005360333" RelativeNode="12,9" />
+        <cCarDrivingNode CustomerTableID="-1" Name="9" NodeType="0" Speed="100" Pos="1478.00,370.00,0.00" RFID="2005360391" RelativeNode="10" />
+        <cCarDrivingNode CustomerTableID="-1" Name="10" NodeType="0" Speed="100" Pos="1581.00,370.00,0.00" RFID="2005360321" RelativeNode="11" />
+        <cCarDrivingNode CustomerTableID="-1" Name="11" NodeType="0" Speed="100" Pos="1702.00,370.00,0.00" RFID="2005360311" RelativeNode="90" />
+        <cCarDrivingNode CustomerTableID="-1" Name="12" NodeType="0" Speed="100" Pos="1479.00,402.00,0.00" RFID="2005360313" RelativeNode="13" />
+        <cCarDrivingNode CustomerTableID="-1" Name="13" NodeType="2" Speed="100" Pos="1521.00,402.00,0.00" RFID="2005360329" RelativeNode="108" />
+        <cCarDrivingNode CustomerTableID="-1" Name="14" NodeType="0" Speed="100" Pos="1846.00,370.00,0.00" RFID="2005360374" RelativeNode="15,144" />
+        <cCarDrivingNode CustomerTableID="-1" Name="15" NodeType="0" Speed="100" Pos="1880.00,406.99,0.00" RFID="2005360372" RelativeNode="93" />
+        <cCarDrivingNode CustomerTableID="-1" Name="16" NodeType="0" Speed="100" Pos="1880.00,520.00,0.00" RFID="2005360400" RelativeNode="57,17" />
+        <cCarDrivingNode CustomerTableID="-1" Name="17" NodeType="0" Speed="100" Pos="1846.00,553.00,0.00" RFID="2005360328" RelativeNode="120" />
+        <cCarDrivingNode CustomerTableID="-1" Name="18" NodeType="0" Speed="100" Pos="1220.00,553.00,0.00" RFID="2005360349" RelativeNode="55,19" />
+        <cCarDrivingNode CustomerTableID="-1" Name="19" NodeType="0" Speed="100" Pos="1153.00,553.00,0.00" RFID="2005360368" RelativeNode="20" />
+        <cCarDrivingNode CustomerTableID="-1" Name="20" NodeType="0" Speed="100" Pos="1039.00,553.00,0.00" RFID="2005360358" RelativeNode="21,25" />
+        <cCarDrivingNode CustomerTableID="-1" Name="21" NodeType="0" Speed="100" Pos="1005.00,517.99,0.00" RFID="2005360398" RelativeNode="109" />
+        <cCarDrivingNode CustomerTableID="-1" Name="22" NodeType="0" Speed="100" Pos="1005.00,335.00,0.00" RFID="2005360367" RelativeNode="23" />
+        <cCarDrivingNode CustomerTableID="-1" Name="23" NodeType="0" Speed="100" Pos="966.00,335.00,0.00" RFID="2005360387" RelativeNode="111" />
+        <cCarDrivingNode CustomerTableID="-1" Name="24" NodeType="0" Speed="100" Pos="967.00,517.99,0.00" RFID="2005360347" RelativeNode="25" />
+        <cCarDrivingNode CustomerTableID="-1" Name="25" NodeType="0" Speed="100" Pos="931.00,553.00,0.00" RFID="2005360305" RelativeNode="121" />
+        <cCarDrivingNode CustomerTableID="-1" Name="26" NodeType="0" Speed="100" Pos="767.00,553.00,0.00" RFID="2005360306" RelativeNode="27,35" />
+        <cCarDrivingNode CustomerTableID="-1" Name="27" NodeType="0" Speed="100" Pos="700.00,553.00,0.00" RFID="2005360336" RelativeNode="122" />
+        <cCarDrivingNode CustomerTableID="-1" Name="28" NodeType="0" Speed="100" Pos="517.00,553.00,0.00" RFID="2005360390" RelativeNode="29" />
+        <cCarDrivingNode CustomerTableID="-1" Name="29" NodeType="0" Speed="100" Pos="483.00,519.00,0.00" RFID="2005360351" RelativeNode="113" />
+        <cCarDrivingNode CustomerTableID="-1" Name="30" NodeType="0" Speed="100" Pos="483.00,336.00,0.00" RFID="2005360344" RelativeNode="31" />
+        <cCarDrivingNode CustomerTableID="-1" Name="31" NodeType="0" Speed="100" Pos="445.00,336.00,0.00" RFID="2005360361" RelativeNode="115" />
+        <cCarDrivingNode CustomerTableID="-1" Name="32" NodeType="0" Speed="100" Pos="445.00,556.00,0.00" RFID="2005360379" RelativeNode="33" />
+        <cCarDrivingNode CustomerTableID="-1" Name="33" NodeType="0" Speed="100" Pos="480.00,591.00,0.00" RFID="2005360335" RelativeNode="123" />
+        <cCarDrivingNode CustomerTableID="-1" Name="34" NodeType="0" Speed="100" Pos="700.00,591.00,0.00" RFID="2005360399" RelativeNode="35,27" />
+        <cCarDrivingNode CustomerTableID="-1" Name="35" NodeType="0" Speed="100" Pos="767.00,591.00,0.00" RFID="2005360389" RelativeNode="124" />
+        <cCarDrivingNode CustomerTableID="-1" Name="36" NodeType="0" Speed="100" Pos="931.00,591.00,0.00" RFID="2005360316" RelativeNode="37,53" />
+        <cCarDrivingNode CustomerTableID="-1" Name="37" NodeType="0" Speed="100" Pos="966.00,626.00,0.00" RFID="2005360396" RelativeNode="125" />
+        <cCarDrivingNode CustomerTableID="-1" Name="38" NodeType="0" Speed="100" Pos="966.00,808.00,0.00" RFID="2005360371" RelativeNode="51,39" />
+        <cCarDrivingNode CustomerTableID="-1" Name="39" NodeType="0" Speed="100" Pos="966.00,876.00,0.00" RFID="2005360307" RelativeNode="127" />
+        <cCarDrivingNode CustomerTableID="-1" Name="40" NodeType="0" Speed="100" Pos="966.00,1058.00,0.00" RFID="2005360320" RelativeNode="41,49" />
+        <cCarDrivingNode CustomerTableID="-1" Name="41" NodeType="0" Speed="100" Pos="966.00,1125.00,0.00" RFID="2005360322" RelativeNode="129" />
+        <cCarDrivingNode CustomerTableID="-1" Name="42" NodeType="0" Speed="100" Pos="966.00,1307.01,0.00" RFID="2005360303" RelativeNode="43,47" />
+        <cCarDrivingNode CustomerTableID="-1" Name="43" NodeType="0" Speed="100" Pos="966.00,1374.99,0.00" RFID="2005360376" RelativeNode="131" />
+        <cCarDrivingNode CustomerTableID="-1" Name="44" NodeType="0" Speed="100" Pos="966.00,1463.01,0.00" RFID="2005360360" RelativeNode="45" />
+        <cCarDrivingNode CustomerTableID="-1" Name="45" NodeType="0" Speed="100" Pos="1005.00,1463.01,0.00" RFID="2005360380" RelativeNode="132" />
+        <cCarDrivingNode CustomerTableID="-1" Name="46" NodeType="0" Speed="100" Pos="1005.00,1374.99,0.00" RFID="2005360318" RelativeNode="47" />
+        <cCarDrivingNode CustomerTableID="-1" Name="47" NodeType="0" Speed="100" Pos="1005.00,1307.01,0.00" RFID="2005360332" RelativeNode="133" />
+        <cCarDrivingNode CustomerTableID="-1" Name="48" NodeType="0" Speed="100" Pos="1005.00,1125.00,0.00" RFID="2005360392" RelativeNode="49" />
+        <cCarDrivingNode CustomerTableID="-1" Name="49" NodeType="0" Speed="100" Pos="1005.00,1058.00,0.00" RFID="2005360381" RelativeNode="135" />
+        <cCarDrivingNode CustomerTableID="-1" Name="50" NodeType="0" Speed="100" Pos="1005.00,876.00,0.00" RFID="2005360353" RelativeNode="51" />
+        <cCarDrivingNode CustomerTableID="-1" Name="51" NodeType="0" Speed="100" Pos="1005.00,808.00,0.00" RFID="2005360352" RelativeNode="137" />
+        <cCarDrivingNode CustomerTableID="-1" Name="52" NodeType="0" Speed="100" Pos="1005.00,626.00,0.00" RFID="2005360394" RelativeNode="53" />
+        <cCarDrivingNode CustomerTableID="-1" Name="53" NodeType="0" Speed="100" Pos="1039.00,591.00,0.00" RFID="2005360343" RelativeNode="139" />
+        <cCarDrivingNode CustomerTableID="-1" Name="54" NodeType="0" Speed="100" Pos="1153.00,591.00,0.00" RFID="2005360301" RelativeNode="55,19" />
+        <cCarDrivingNode CustomerTableID="-1" Name="55" NodeType="0" Speed="100" Pos="1220.00,591.00,0.00" RFID="2005360355" RelativeNode="140" />
+        <cCarDrivingNode CustomerTableID="-1" Name="56" NodeType="0" Speed="100" Pos="1846.00,591.00,0.00" RFID="2005360393" RelativeNode="57" />
+        <cCarDrivingNode CustomerTableID="-1" Name="57" NodeType="0" Speed="100" Pos="1880.00,626.00,0.00" RFID="2005360315" RelativeNode="94" />
+        <cCarDrivingNode CustomerTableID="-1" Name="58" NodeType="0" Speed="100" Pos="1880.00,740.99,0.00" RFID="2005360323" RelativeNode="67,59" />
+        <cCarDrivingNode CustomerTableID="-1" Name="59" NodeType="0" Speed="100" Pos="1880.00,808.00,0.00" RFID="2005360364" RelativeNode="95" />
+        <cCarDrivingNode CustomerTableID="-1" Name="60" NodeType="0" Speed="100" Pos="1880.00,1433.00,0.00" RFID="2005360338" RelativeNode="61,65" />
+        <cCarDrivingNode CustomerTableID="-1" Name="61" NodeType="0" Speed="100" Pos="1880.00,1500.00,0.00" RFID="2005360310" RelativeNode="118" />
+        <cCarDrivingNode CustomerTableID="-1" Name="62" NodeType="0" Speed="100" Pos="1880.00,1879.00,0.00" RFID="2005360369" RelativeNode="63" />
+        <cCarDrivingNode CustomerTableID="-1" Name="63" NodeType="0" Speed="100" Pos="1919.00,1879.00,0.00" RFID="2005360317" RelativeNode="80" />
+        <cCarDrivingNode CustomerTableID="-1" Name="64" NodeType="0" Speed="100" Pos="1919.00,1500.00,0.00" RFID="2005360331" RelativeNode="65" />
+        <cCarDrivingNode CustomerTableID="-1" Name="65" NodeType="0" Speed="100" Pos="1919.00,1433.00,0.00" RFID="2005360325" RelativeNode="119" />
+        <cCarDrivingNode CustomerTableID="-1" Name="66" NodeType="0" Speed="100" Pos="1919.00,808.00,0.00" RFID="2005360304" RelativeNode="67" />
+        <cCarDrivingNode CustomerTableID="-1" Name="67" NodeType="0" Speed="100" Pos="1919.00,740.99,0.00" RFID="2005360340" RelativeNode="83" />
+        <cCarDrivingNode CustomerTableID="-1" Name="68" NodeType="0" Speed="100" Pos="1919.00,115.00,0.00" RFID="2005360309" RelativeNode="69" />
+        <cCarDrivingNode CustomerTableID="-1" Name="69" NodeType="0" Speed="100" Pos="1884.00,80.00,0.00" RFID="2005360350" RelativeNode="91" />
+        <cCarDrivingNode CustomerTableID="-1" Name="70" NodeType="0" Speed="100" Pos="781.00,80.00,0.00" RFID="2005360370" RelativeNode="71,143" />
+        <cCarDrivingNode CustomerTableID="-1" Name="71" NodeType="0" Speed="100" Pos="713.00,80.00,0.00" RFID="2005360377" RelativeNode="86" />
+        <cCarDrivingNode CustomerTableID="-1" Name="72" NodeType="2" Speed="100" Pos="115.00,80.00,0.00" RFID="2005360354" RelativeNode="73" />
+        <cCarDrivingNode CustomerTableID="-1" Name="73" NodeType="0" Speed="100" Pos="88.00,80.00,0.00" RFID="2005360314" RelativeNode="74" />
+        <cCarDrivingNode CustomerTableID="-1" Name="74" NodeType="0" Speed="100" Pos="88.00,118.00,0.00" RFID="2005360341" RelativeNode="75" />
+        <cCarDrivingNode CustomerTableID="-1" Name="75" NodeType="3" Speed="100" Pos="148.00,118.00,0.00" RFID="2005360363" RelativeNode="1" />
+        <cCarDrivingNode CustomerTableID="-1" Name="76" NodeType="1" Speed="100" Pos="1548.00,80.00,0.00" RFID="2005360362" RelativeNode="101" />
+        <cCarDrivingNode CustomerTableID="-1" Name="77" NodeType="1" Speed="100" Pos="1919.00,225.00,0.00" RFID="2005360348" RelativeNode="68" />
+        <cCarDrivingNode CustomerTableID="-1" Name="78" NodeType="1" Speed="100" Pos="1880.00,1199.00,0.00" RFID="2005360365" RelativeNode="60" />
+        <cCarDrivingNode CustomerTableID="-1" Name="79" NodeType="1" Speed="100" Pos="1919.00,949.00,0.00" RFID="2005360388" RelativeNode="66" />
+        <cCarDrivingNode CustomerTableID="-1" Name="80" NodeType="1" Speed="100" Pos="1918.00,1690.00,0.00" RFID="2005360342" RelativeNode="64" />
+        <cCarDrivingNode CustomerTableID="-1" Name="81" NodeType="1" Speed="100" Pos="878.00,118.00,0.00" RFID="1901034963" RelativeNode="82" />
+        <cCarDrivingNode CustomerTableID="-1" Name="82" NodeType="1" Speed="100" Pos="999.00,116.99,0.00" RFID="1901034943" RelativeNode="4" />
+        <cCarDrivingNode CustomerTableID="-1" Name="83" NodeType="1" Speed="100" Pos="1920.00,684.01,0.00" RFID="1901034983" RelativeNode="97" />
+        <cCarDrivingNode CustomerTableID="-1" Name="84" NodeType="1" Speed="100" Pos="999.00,79.00,0.00" RFID="1901034994" RelativeNode="85" />
+        <cCarDrivingNode CustomerTableID="-1" Name="85" NodeType="1" Speed="100" Pos="878.00,79.00,0.00" RFID="1901034910" RelativeNode="70" />
+        <cCarDrivingNode CustomerTableID="-1" Name="86" NodeType="0" Speed="100" Pos="500.00,79.00,0.00" RFID="1901034986" RelativeNode="87" />
+        <cCarDrivingNode CustomerTableID="-1" Name="87" NodeType="0" Speed="100" Pos="299.00,79.00,0.00" RFID="1901034957" RelativeNode="96" />
+        <cCarDrivingNode CustomerTableID="-1" Name="88" NodeType="1" Speed="100" Pos="1177.00,225.00,0.00" RFID="202080260168" RelativeNode="6" />
+        <cCarDrivingNode CustomerTableID="-1" Name="89" NodeType="1" Speed="100" Pos="1282.00,370.00,0.00" RFID="1901034989" RelativeNode="8" />
+        <cCarDrivingNode CustomerTableID="-1" Name="90" NodeType="1" Speed="100" Pos="1774.00,370.00,0.00" RFID="202080260190" RelativeNode="14" />
+        <cCarDrivingNode CustomerTableID="-1" Name="91" NodeType="1" Speed="100" Pos="1804.00,80.00,0.00" RFID="202080260191" RelativeNode="99" />
+        <cCarDrivingNode CustomerTableID="-1" Name="92" NodeType="1" Speed="100" Pos="1282.00,80.00,0.00" RFID="202080260172" RelativeNode="103" />
+        <cCarDrivingNode CustomerTableID="-1" Name="93" NodeType="1" Speed="100" Pos="1880.00,469.00,0.00" RFID="202080260173" RelativeNode="16" />
+        <cCarDrivingNode CustomerTableID="-1" Name="94" NodeType="1" Speed="100" Pos="1880.00,684.01,0.00" RFID="1901034964" RelativeNode="58" />
+        <cCarDrivingNode CustomerTableID="-1" Name="95" NodeType="1" Speed="100" Pos="1880.00,949.00,0.00" RFID="202080260195" RelativeNode="78" />
+        <cCarDrivingNode CustomerTableID="-1" Name="96" NodeType="2" Speed="100" Pos="172.00,80.00,0.00" RFID="202080260196" RelativeNode="72" />
+        <cCarDrivingNode CustomerTableID="-1" Name="97" NodeType="0" Speed="100" Pos="1920.00,406.99,0.00" RFID="202080260197" RelativeNode="98,15" />
+        <cCarDrivingNode CustomerTableID="-1" Name="98" NodeType="0" Speed="100" Pos="1920.00,335.00,0.00" RFID="202080260198" RelativeNode="77" />
+        <cCarDrivingNode CustomerTableID="-1" Name="99" NodeType="0" Speed="100" Pos="1728.00,80.00,0.00" RFID="202080260199" RelativeNode="100" />
+        <cCarDrivingNode CustomerTableID="-1" Name="100" NodeType="0" Speed="100" Pos="1661.00,79.00,0.00" RFID="202080260179" RelativeNode="76" />
+        <cCarDrivingNode CustomerTableID="-1" Name="101" NodeType="0" Speed="100" Pos="1434.00,79.00,0.00" RFID="202080260101" RelativeNode="102,107" />
+        <cCarDrivingNode CustomerTableID="-1" Name="102" NodeType="0" Speed="100" Pos="1367.00,79.00,0.00" RFID="202080260102" RelativeNode="92" />
+        <cCarDrivingNode CustomerTableID="-1" Name="103" NodeType="0" Speed="100" Pos="1211.00,79.00,0.00" RFID="202080260103" RelativeNode="117,142" />
+        <cCarDrivingNode CustomerTableID="-1" Name="104" NodeType="0" Speed="100" Pos="1661.00,118.00,0.00" RFID="202080260104" RelativeNode="100" />
+        <cCarDrivingNode CustomerTableID="-1" Name="105" NodeType="3" Speed="100" Pos="1602.00,118.00,0.00" RFID="202080260105" RelativeNode="104" />
+        <cCarDrivingNode CustomerTableID="-1" Name="106" NodeType="2" Speed="100" Pos="1535.00,118.00,0.00" RFID="202080260106" RelativeNode="105" />
+        <cCarDrivingNode CustomerTableID="-1" Name="107" NodeType="0" Speed="100" Pos="1434.00,118.00,0.00" RFID="202080260107" RelativeNode="106" />
+        <cCarDrivingNode CustomerTableID="-1" Name="108" NodeType="3" Speed="100" Pos="1579.00,402.00,0.00" RFID="202080260108" RelativeNode="11" />
+        <cCarDrivingNode CustomerTableID="-1" Name="109" NodeType="2" Speed="100" Pos="1004.00,422.00,0.00" RFID="202080260109" RelativeNode="110" />
+        <cCarDrivingNode CustomerTableID="-1" Name="110" NodeType="1" Speed="100" Pos="1004.00,363.00,0.00" RFID="202080260110" RelativeNode="22" />
+        <cCarDrivingNode CustomerTableID="-1" Name="111" NodeType="2" Speed="100" Pos="966.00,403.00,0.00" RFID="202080260171" RelativeNode="112" />
+        <cCarDrivingNode CustomerTableID="-1" Name="112" NodeType="2" Speed="100" Pos="966.00,461.99,0.00" RFID="202080260112" RelativeNode="24" />
+        <cCarDrivingNode CustomerTableID="-1" Name="113" NodeType="2" Speed="100" Pos="483.00,422.00,0.00" RFID="202080260113" RelativeNode="114" />
+        <cCarDrivingNode CustomerTableID="-1" Name="114" NodeType="1" Speed="100" Pos="483.00,363.00,0.00" RFID="202080260114" RelativeNode="30" />
+        <cCarDrivingNode CustomerTableID="-1" Name="115" NodeType="2" Speed="100" Pos="444.00,404.00,0.00" RFID="202080260115" RelativeNode="116" />
+        <cCarDrivingNode CustomerTableID="-1" Name="116" NodeType="2" Speed="100" Pos="444.00,461.99,0.00" RFID="202080260116" RelativeNode="32" />
+        <cCarDrivingNode CustomerTableID="-1" Name="117" NodeType="0" Speed="100" Pos="1142.00,79.00,0.00" RFID="202080260117" RelativeNode="84" />
+        <cCarDrivingNode CustomerTableID="-1" Name="118" NodeType="1" Speed="100" Pos="1880.00,1690.00,0.00" RFID="202080260118" RelativeNode="62" />
+        <cCarDrivingNode CustomerTableID="-1" Name="119" NodeType="1" Speed="100" Pos="1919.00,1199.00,0.00" RFID="202080260119" RelativeNode="79" />
+        <cCarDrivingNode CustomerTableID="-1" Name="120" NodeType="1" Speed="100" Pos="1533.00,553.00,0.00" RFID="202080260169" RelativeNode="18" />
+        <cCarDrivingNode CustomerTableID="-1" Name="121" NodeType="1" Speed="100" Pos="849.00,553.00,0.00" RFID="202080260181" RelativeNode="26" />
+        <cCarDrivingNode CustomerTableID="-1" Name="122" NodeType="1" Speed="100" Pos="609.00,553.00,0.00" RFID="202080260122" RelativeNode="28" />
+        <cCarDrivingNode CustomerTableID="-1" Name="123" NodeType="1" Speed="100" Pos="590.00,591.00,0.00" RFID="202080260123" RelativeNode="34" />
+        <cCarDrivingNode CustomerTableID="-1" Name="124" NodeType="1" Speed="100" Pos="849.00,591.00,0.00" RFID="202080260124" RelativeNode="36" />
+        <cCarDrivingNode CustomerTableID="-1" Name="125" NodeType="1" Speed="100" Pos="966.00,687.00,0.00" RFID="202080260125" RelativeNode="126" />
+        <cCarDrivingNode CustomerTableID="-1" Name="126" NodeType="1" Speed="100" Pos="966.00,748.00,0.00" RFID="1901034926" RelativeNode="38" />
+        <cCarDrivingNode CustomerTableID="-1" Name="127" NodeType="1" Speed="100" Pos="966.00,937.00,0.00" RFID="202080260187" RelativeNode="128" />
+        <cCarDrivingNode CustomerTableID="-1" Name="128" NodeType="1" Speed="100" Pos="966.00,998.00,0.00" RFID="202080260128" RelativeNode="40" />
+        <cCarDrivingNode CustomerTableID="-1" Name="129" NodeType="1" Speed="100" Pos="966.00,1185.99,0.00" RFID="202080260129" RelativeNode="130" />
+        <cCarDrivingNode CustomerTableID="-1" Name="130" NodeType="1" Speed="100" Pos="966.00,1247.00,0.00" RFID="202080260130" RelativeNode="42" />
+        <cCarDrivingNode CustomerTableID="-1" Name="131" NodeType="1" Speed="100" Pos="966.00,1418.99,0.00" RFID="202080260131" RelativeNode="44" />
+        <cCarDrivingNode CustomerTableID="-1" Name="132" NodeType="1" Speed="100" Pos="1005.00,1418.99,0.00" RFID="202080260132" RelativeNode="46" />
+        <cCarDrivingNode CustomerTableID="-1" Name="133" NodeType="1" Speed="100" Pos="1005.00,1247.00,0.00" RFID="202080260133" RelativeNode="134" />
+        <cCarDrivingNode CustomerTableID="-1" Name="134" NodeType="1" Speed="100" Pos="1005.00,1185.99,0.00" RFID="202080260134" RelativeNode="48" />
+        <cCarDrivingNode CustomerTableID="-1" Name="135" NodeType="1" Speed="100" Pos="1005.00,998.00,0.00" RFID="202080260178" RelativeNode="136" />
+        <cCarDrivingNode CustomerTableID="-1" Name="136" NodeType="1" Speed="100" Pos="1005.00,937.00,0.00" RFID="202080260186" RelativeNode="50" />
+        <cCarDrivingNode CustomerTableID="-1" Name="137" NodeType="1" Speed="100" Pos="1005.00,748.00,0.00" RFID="202080260137" RelativeNode="138" />
+        <cCarDrivingNode CustomerTableID="-1" Name="138" NodeType="1" Speed="100" Pos="1005.00,687.00,0.00" RFID="202080260138" RelativeNode="52" />
+        <cCarDrivingNode CustomerTableID="-1" Name="139" NodeType="1" Speed="100" Pos="1096.00,591.00,0.00" RFID="202080260175" RelativeNode="54" />
+        <cCarDrivingNode CustomerTableID="-1" Name="140" NodeType="1" Speed="100" Pos="1429.00,591.00,0.00" RFID="202080260140" RelativeNode="141" />
+        <cCarDrivingNode CustomerTableID="-1" Name="141" NodeType="1" Speed="100" Pos="1638.00,591.00,0.00" RFID="202080260141" RelativeNode="56" />
+        <cCarDrivingNode CustomerTableID="-1" Name="142" NodeType="28" Speed="100" Pos="1177.00,100.00,0.00" RFID="0" RelativeNode="117,145" />
+        <cCarDrivingNode CustomerTableID="-1" Name="143" NodeType="28" Speed="100" Pos="739.00,99.00,0.00" RFID="0" RelativeNode="71,3" />
+        <cCarDrivingNode CustomerTableID="-1" Name="144" NodeType="0" Speed="100" Pos="1892.00,370.00,0.00" RFID="202080260142" RelativeNode="98" />
+    </cCarDrivingNodeManager>
+    <cCarDrivingPathManager Count="166">
+        <cCarDrivingPath Name="1-2" StartNode="1" EndNode="2" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="1-2" Count="2" LOD="1">
+                <Data Pos="213.00,118.00,0.00,713.00,118.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="2-143" StartNode="2" EndNode="143" NodeType="28" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="2-143" Count="5" LOD="1">
+                <Data Pos="713.00,118.00,0.00,729.00,118.00,0.00,735.00,112.00,0.00,738.00,104.00,0.00,739.00,99.00,0.00" Time="0.00000,1.00000,1.20000,1.40000,1.60000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="2-3" StartNode="2" EndNode="3" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="2-3" Count="2" LOD="1">
+                <Data Pos="713.00,118.00,0.00,781.00,118.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="3-81" StartNode="3" EndNode="81" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="3-81" Count="2" LOD="1">
+                <Data Pos="781.00,118.00,0.00,878.00,118.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="4-5" StartNode="4" EndNode="5" NodeType="31" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="4-5" Count="7" LOD="8">
+                <Data Pos="1143.00,118.00,0.00,1157.00,118.00,0.00,1165.00,120.00,0.00,1170.00,125.00,0.00,1174.00,132.00,0.00,1176.00,137.00,0.00,1177.00,153.00,0.00" Time="0.90000,1.10000,1.30000,1.50000,1.70000,1.90000,2.10000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="4-142" StartNode="4" EndNode="142" NodeType="28" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="4-142" Count="5" LOD="1">
+                <Data Pos="1143.00,118.00,0.00,1158.00,118.00,0.00,1166.00,112.00,0.00,1173.00,103.00,0.00,1177.00,100.00,0.00" Time="0.00000,1.00000,1.20000,1.40000,1.60000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="5-88" StartNode="5" EndNode="88" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="5-88" Count="2" LOD="1">
+                <Data Pos="1177.00,153.00,0.00,1177.00,225.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="6-7" StartNode="6" EndNode="7" NodeType="21" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="6-7" Count="7" LOD="8">
+                <Data Pos="1177.00,335.00,0.00,1179.00,350.99,0.00,1182.00,359.00,0.00,1187.00,365.00,0.00,1196.00,369.00,0.00,1206.00,369.00,0.00,1212.00,370.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="7-89" StartNode="7" EndNode="89" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="7-89" Count="2" LOD="1">
+                <Data Pos="1212.00,370.00,0.00,1282.00,370.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="8-12" StartNode="8" EndNode="12" NodeType="4" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="8-12" Count="2" LOD="1">
+                <Data Pos="1356.00,370.00,0.00,1479.00,402.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="8-9" StartNode="8" EndNode="9" NodeType="0" Speed="100" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="8-9" Count="2" LOD="1">
+                <Data Pos="1356.00,370.00,0.00,1478.00,370.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="9-10" StartNode="9" EndNode="10" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="9-10" Count="2" LOD="1">
+                <Data Pos="1478.00,370.00,0.00,1581.00,370.00,0.00" Time="0.00000,1.00000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="10-11" StartNode="10" EndNode="11" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="10-11" Count="2" LOD="1">
+                <Data Pos="1581.00,370.00,0.00,1702.00,370.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="11-90" StartNode="11" EndNode="90" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="11-90" Count="2" LOD="1">
+                <Data Pos="1702.00,370.00,0.00,1774.00,370.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="12-13" StartNode="12" EndNode="13" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="12-13" Count="2" LOD="1">
+                <Data Pos="1479.00,402.00,0.00,1521.00,402.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="13-108" StartNode="13" EndNode="108" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="13-108" Count="2" LOD="1">
+                <Data Pos="1521.00,402.00,0.00,1579.00,402.00,0.00" Time="0.00000,1.00000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="14-15" StartNode="14" EndNode="15" NodeType="31" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="14-15" Count="5" LOD="8">
+                <Data Pos="1846.00,370.00,0.00,1865.00,372.99,0.00,1874.00,378.00,0.00,1878.00,387.00,0.00,1880.00,406.99,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="14-144" StartNode="14" EndNode="144" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="14-144" Count="2" LOD="1">
+                <Data Pos="1846.00,370.00,0.00,1892.00,370.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="15-93" StartNode="15" EndNode="93" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="15-93" Count="2" LOD="1">
+                <Data Pos="1880.00,406.99,0.00,1880.00,469.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="16-57" StartNode="16" EndNode="57" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="16-57" Count="2" LOD="1">
+                <Data Pos="1880.00,520.00,0.00,1880.00,626.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="16-17" StartNode="16" EndNode="17" NodeType="31" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="16-17" Count="5" LOD="1">
+                <Data Pos="1880.00,520.00,0.00,1880.00,539.01,0.00,1878.00,546.00,0.00,1868.00,550.99,0.00,1846.00,553.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="17-120" StartNode="17" EndNode="120" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="17-120" Count="2" LOD="1">
+                <Data Pos="1846.00,553.00,0.00,1533.00,553.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="18-55" StartNode="18" EndNode="55" NodeType="30" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="18-55" Count="7" LOD="8">
+                <Data Pos="1220.00,553.00,0.00,1197.00,555.00,0.00,1188.00,568.00,0.00,1188.00,583.00,0.00,1198.00,589.00,0.00,1211.00,591.00,0.00,1220.00,591.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="18-19" StartNode="18" EndNode="19" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="18-19" Count="2" LOD="1">
+                <Data Pos="1220.00,553.00,0.00,1153.00,553.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="19-20" StartNode="19" EndNode="20" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="19-20" Count="2" LOD="1">
+                <Data Pos="1153.00,553.00,0.00,1039.00,553.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="20-21" StartNode="20" EndNode="21" NodeType="31" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="20-21" Count="5" LOD="1">
+                <Data Pos="1039.00,553.00,0.00,1024.00,553.00,0.00,1013.00,547.00,0.00,1006.00,537.00,0.00,1005.00,517.99,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="20-25" StartNode="20" EndNode="25" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="20-25" Count="2" LOD="1">
+                <Data Pos="1039.00,553.00,0.00,931.00,553.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="21-109" StartNode="21" EndNode="109" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="21-109" Count="2" LOD="1">
+                <Data Pos="1005.00,517.99,0.00,1004.00,422.00,0.00" Time="0.00000,1.00000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="22-23" StartNode="22" EndNode="23" NodeType="27" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="22-23" Count="7" LOD="1">
+                <Data Pos="1005.00,335.00,0.00,1005.00,322.00,0.00,998.00,311.00,0.00,987.00,308.00,0.00,973.00,310.00,0.00,967.00,317.01,0.00,966.00,335.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="23-111" StartNode="23" EndNode="111" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="23-111" Count="2" LOD="1">
+                <Data Pos="966.00,335.00,0.00,966.00,403.00,0.00" Time="0.00000,1.00000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="24-25" StartNode="24" EndNode="25" NodeType="31" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="24-25" Count="6" LOD="1">
+                <Data Pos="967.00,517.99,0.00,967.00,535.00,0.00,963.00,544.00,0.00,956.00,549.00,0.00,948.00,553.00,0.00,931.00,553.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="25-121" StartNode="25" EndNode="121" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="25-121" Count="2" LOD="1">
+                <Data Pos="931.00,553.00,0.00,849.00,553.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="26-27" StartNode="26" EndNode="27" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="26-27" Count="2" LOD="1">
+                <Data Pos="767.00,553.00,0.00,700.00,553.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="26-35" StartNode="26" EndNode="35" NodeType="30" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="26-35" Count="7" LOD="1">
+                <Data Pos="767.00,553.00,0.00,751.00,553.00,0.00,738.00,560.00,0.00,734.00,570.00,0.00,738.00,581.00,0.00,750.00,591.00,0.00,767.00,591.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="27-122" StartNode="27" EndNode="122" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="27-122" Count="2" LOD="1">
+                <Data Pos="700.00,553.00,0.00,609.00,553.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="28-29" StartNode="28" EndNode="29" NodeType="9" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="28-29" Count="6" LOD="1">
+                <Data Pos="517.00,553.00,0.00,503.00,553.00,0.00,493.00,549.00,0.00,486.00,543.00,0.00,482.00,535.00,0.00,483.00,519.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="29-113" StartNode="29" EndNode="113" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="29-113" Count="2" LOD="1">
+                <Data Pos="483.00,519.00,0.00,483.00,422.00,0.00" Time="0.00000,1.00000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="30-31" StartNode="30" EndNode="31" NodeType="27" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="30-31" Count="9" LOD="1">
+                <Data Pos="483.00,336.00,0.00,483.00,325.00,0.00,479.00,316.00,0.00,473.00,309.00,0.00,464.00,305.00,0.00,454.00,308.00,0.00,448.00,313.00,0.00,445.00,319.00,0.00,445.00,336.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000,1.50000,1.70000,1.90000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="31-115" StartNode="31" EndNode="115" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="31-115" Count="2" LOD="1">
+                <Data Pos="445.00,336.00,0.00,444.00,404.00,0.00" Time="0.00000,1.00000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="32-33" StartNode="32" EndNode="33" NodeType="21" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="32-33" Count="7" LOD="1">
+                <Data Pos="445.00,556.00,0.00,445.00,570.00,0.00,446.00,578.00,0.00,449.00,582.00,0.00,454.00,587.00,0.00,461.00,590.00,0.00,480.00,591.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="33-123" StartNode="33" EndNode="123" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="33-123" Count="2" LOD="1">
+                <Data Pos="480.00,591.00,0.00,590.00,591.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="34-35" StartNode="34" EndNode="35" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="34-35" Count="2" LOD="1">
+                <Data Pos="700.00,591.00,0.00,767.00,591.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="34-27" StartNode="34" EndNode="27" NodeType="30" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="34-27" Count="7" LOD="1">
+                <Data Pos="700.00,591.00,0.00,717.00,591.00,0.00,727.00,584.01,0.00,731.00,573.01,0.00,726.00,561.00,0.00,716.00,552.00,0.00,700.00,553.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="35-124" StartNode="35" EndNode="124" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="35-124" Count="2" LOD="1">
+                <Data Pos="767.00,591.00,0.00,849.00,591.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="36-37" StartNode="36" EndNode="37" NodeType="31" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="36-37" Count="5" LOD="1">
+                <Data Pos="931.00,591.00,0.00,950.00,591.00,0.00,961.00,595.99,0.00,966.00,603.00,0.00,966.00,626.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="36-53" StartNode="36" EndNode="53" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="36-53" Count="2" LOD="1">
+                <Data Pos="931.00,591.00,0.00,1039.00,591.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="37-125" StartNode="37" EndNode="125" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="37-125" Count="2" LOD="1">
+                <Data Pos="966.00,626.00,0.00,966.00,687.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="38-51" StartNode="38" EndNode="51" NodeType="30" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="38-51" Count="9" LOD="1">
+                <Data Pos="966.00,808.00,0.00,966.00,825.00,0.00,971.00,835.00,0.00,978.00,839.00,0.00,985.00,842.00,0.00,995.00,839.00,0.00,1002.00,834.00,0.00,1005.00,827.00,0.00,1005.00,808.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000,1.50000,1.70000,1.90000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="38-39" StartNode="38" EndNode="39" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="38-39" Count="2" LOD="1">
+                <Data Pos="966.00,808.00,0.00,966.00,876.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="39-127" StartNode="39" EndNode="127" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="39-127" Count="2" LOD="1">
+                <Data Pos="966.00,876.00,0.00,966.00,937.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="40-41" StartNode="40" EndNode="41" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="40-41" Count="2" LOD="1">
+                <Data Pos="966.00,1058.00,0.00,966.00,1125.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="40-49" StartNode="40" EndNode="49" NodeType="30" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="40-49" Count="8" LOD="1">
+                <Data Pos="966.00,1058.00,0.00,966.00,1074.99,0.00,969.00,1081.00,0.00,975.00,1085.99,0.00,985.00,1090.00,0.00,997.00,1085.01,0.00,1004.00,1078.00,0.00,1005.00,1058.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000,1.50000,1.70000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="41-129" StartNode="41" EndNode="129" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="41-129" Count="2" LOD="1">
+                <Data Pos="966.00,1125.00,0.00,966.00,1185.99,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="42-43" StartNode="42" EndNode="43" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="42-43" Count="2" LOD="1">
+                <Data Pos="966.00,1307.01,0.00,966.00,1374.99,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="42-47" StartNode="42" EndNode="47" NodeType="30" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="42-47" Count="9" LOD="1">
+                <Data Pos="966.00,1307.01,0.00,966.00,1325.00,0.00,970.00,1332.00,0.00,978.00,1337.00,0.00,985.00,1340.00,0.00,996.00,1337.00,0.00,1002.00,1330.99,0.00,1005.00,1324.00,0.00,1005.00,1307.01,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000,1.50000,1.70000,1.90000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="43-131" StartNode="43" EndNode="131" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="43-131" Count="2" LOD="1">
+                <Data Pos="966.00,1374.99,0.00,966.00,1418.99,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="44-45" StartNode="44" EndNode="45" NodeType="27" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="44-45" Count="11" LOD="1">
+                <Data Pos="966.00,1463.01,0.00,966.00,1480.00,0.00,969.00,1485.99,0.00,972.00,1489.00,0.00,979.00,1493.00,0.00,985.00,1495.00,0.00,993.00,1493.00,0.00,998.00,1489.00,0.00,1003.00,1482.00,0.00,1005.00,1477.00,0.00,1005.00,1463.01,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000,1.50000,1.70000,1.90000,2.10000,2.30000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="45-132" StartNode="45" EndNode="132" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="45-132" Count="2" LOD="1">
+                <Data Pos="1005.00,1463.01,0.00,1005.00,1418.99,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="46-47" StartNode="46" EndNode="47" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="46-47" Count="2" LOD="1">
+                <Data Pos="1005.00,1374.99,0.00,1005.00,1307.01,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="47-133" StartNode="47" EndNode="133" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="47-133" Count="2" LOD="1">
+                <Data Pos="1005.00,1307.01,0.00,1005.00,1247.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="48-49" StartNode="48" EndNode="49" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="48-49" Count="2" LOD="1">
+                <Data Pos="1005.00,1125.00,0.00,1005.00,1058.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="49-135" StartNode="49" EndNode="135" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="49-135" Count="2" LOD="1">
+                <Data Pos="1005.00,1058.00,0.00,1005.00,998.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="50-51" StartNode="50" EndNode="51" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="50-51" Count="2" LOD="1">
+                <Data Pos="1005.00,876.00,0.00,1005.00,808.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="51-137" StartNode="51" EndNode="137" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="51-137" Count="2" LOD="1">
+                <Data Pos="1005.00,808.00,0.00,1005.00,748.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="52-53" StartNode="52" EndNode="53" NodeType="31" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="52-53" Count="6" LOD="1">
+                <Data Pos="1005.00,626.00,0.00,1005.00,612.00,0.00,1007.00,603.00,0.00,1011.00,595.99,0.00,1018.00,592.00,0.00,1039.00,591.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="53-139" StartNode="53" EndNode="139" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="53-139" Count="2" LOD="1">
+                <Data Pos="1039.00,591.00,0.00,1096.00,591.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="54-55" StartNode="54" EndNode="55" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="54-55" Count="2" LOD="1">
+                <Data Pos="1153.00,591.00,0.00,1220.00,591.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="54-19" StartNode="54" EndNode="19" NodeType="30" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="54-19" Count="7" LOD="1">
+                <Data Pos="1153.00,591.00,0.00,1172.00,591.00,0.00,1180.00,583.00,0.00,1182.00,573.01,0.00,1178.00,560.00,0.00,1171.00,552.00,0.00,1153.00,553.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="55-140" StartNode="55" EndNode="140" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="55-140" Count="2" LOD="1">
+                <Data Pos="1220.00,591.00,0.00,1429.00,591.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="56-57" StartNode="56" EndNode="57" NodeType="31" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="56-57" Count="6" LOD="8">
+                <Data Pos="1846.00,591.00,0.00,1866.00,592.00,0.00,1873.00,595.99,0.00,1879.00,603.00,0.00,1880.00,612.00,0.00,1880.00,626.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="57-94" StartNode="57" EndNode="94" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="57-94" Count="2" LOD="1">
+                <Data Pos="1880.00,626.00,0.00,1880.00,684.01,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="58-67" StartNode="58" EndNode="67" NodeType="30" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="58-67" Count="8" LOD="8">
+                <Data Pos="1880.00,740.99,0.00,1883.00,760.00,0.00,1891.00,767.00,0.00,1900.00,772.00,0.00,1909.00,770.00,0.00,1916.00,764.00,0.00,1920.00,758.00,0.00,1919.00,740.99,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000,1.50000,1.70000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="58-59" StartNode="58" EndNode="59" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="58-59" Count="2" LOD="1">
+                <Data Pos="1880.00,740.99,0.00,1880.00,808.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="59-95" StartNode="59" EndNode="95" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="59-95" Count="2" LOD="1">
+                <Data Pos="1880.00,808.00,0.00,1880.00,949.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="60-61" StartNode="60" EndNode="61" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="60-61" Count="2" LOD="1">
+                <Data Pos="1880.00,1433.00,0.00,1880.00,1500.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="60-65" StartNode="60" EndNode="65" NodeType="30" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="60-65" Count="8" LOD="8">
+                <Data Pos="1880.00,1433.00,0.00,1882.00,1456.00,0.00,1888.00,1462.00,0.00,1897.00,1463.99,0.00,1905.00,1465.00,0.00,1915.00,1460.00,0.00,1919.00,1450.00,0.00,1919.00,1433.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000,1.50000,1.70000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="61-118" StartNode="61" EndNode="118" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="61-118" Count="2" LOD="1">
+                <Data Pos="1880.00,1500.00,0.00,1880.00,1690.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="62-63" StartNode="62" EndNode="63" NodeType="27" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="62-63" Count="8" LOD="1">
+                <Data Pos="1880.00,1879.00,0.00,1883.00,1899.00,0.00,1889.00,1905.00,0.00,1898.00,1910.00,0.00,1906.00,1908.01,0.00,1915.00,1903.00,0.00,1918.00,1894.00,0.00,1919.00,1879.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000,1.50000,1.70000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="63-80" StartNode="63" EndNode="80" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="63-80" Count="2" LOD="1">
+                <Data Pos="1919.00,1879.00,0.00,1918.00,1690.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="64-65" StartNode="64" EndNode="65" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="64-65" Count="2" LOD="1">
+                <Data Pos="1919.00,1500.00,0.00,1919.00,1433.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="65-119" StartNode="65" EndNode="119" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="65-119" Count="2" LOD="1">
+                <Data Pos="1919.00,1433.00,0.00,1919.00,1199.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="66-67" StartNode="66" EndNode="67" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="66-67" Count="2" LOD="1">
+                <Data Pos="1919.00,808.00,0.00,1919.00,740.99,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="67-83" StartNode="67" EndNode="83" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="67-83" Count="2" LOD="1">
+                <Data Pos="1919.00,740.99,0.00,1920.00,684.01,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="68-69" StartNode="68" EndNode="69" NodeType="21" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="68-69" Count="7" LOD="8">
+                <Data Pos="1919.00,115.00,0.00,1918.00,102.00,0.00,1916.00,94.01,0.00,1912.00,89.00,0.00,1905.00,83.01,0.00,1897.00,80.00,0.00,1884.00,80.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="69-91" StartNode="69" EndNode="91" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="69-91" Count="2" LOD="1">
+                <Data Pos="1884.00,80.00,0.00,1804.00,80.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="70-71" StartNode="70" EndNode="71" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="70-71" Count="2" LOD="1">
+                <Data Pos="781.00,80.00,0.00,713.00,80.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="70-143" StartNode="70" EndNode="143" NodeType="28" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="70-143" Count="7" LOD="1">
+                <Data Pos="781.00,80.00,0.00,764.00,80.00,0.00,755.00,81.00,0.00,747.00,82.00,0.00,743.00,84.00,0.00,740.00,89.00,0.00,739.00,99.00,0.00" Time="0.00000,1.00000,1.20000,1.40000,1.60000,1.80000,2.00000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="71-86" StartNode="71" EndNode="86" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="71-86" Count="2" LOD="1">
+                <Data Pos="713.00,80.00,0.00,500.00,79.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="72-73" StartNode="72" EndNode="73" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="72-73" Count="2" LOD="1">
+                <Data Pos="115.00,80.00,0.00,88.00,80.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="73-74" StartNode="73" EndNode="74" NodeType="27" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="73-74" Count="10" LOD="8">
+                <Data Pos="88.00,80.00,0.00,72.00,82.00,0.00,64.00,85.00,0.00,59.00,91.00,0.00,58.00,99.00,0.00,60.00,108.00,0.00,64.00,114.00,0.00,69.00,116.99,0.00,77.00,118.00,0.00,88.00,118.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000,1.50000,1.70000,1.90000,2.10000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="74-75" StartNode="74" EndNode="75" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="74-75" Count="2" LOD="1">
+                <Data Pos="88.00,118.00,0.00,148.00,118.00,0.00" Time="0.00000,1.00000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="75-1" StartNode="75" EndNode="1" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="75-1" Count="2" LOD="1">
+                <Data Pos="148.00,118.00,0.00,213.00,118.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="76-101" StartNode="76" EndNode="101" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="76-101" Count="2" LOD="1">
+                <Data Pos="1548.00,80.00,0.00,1434.00,79.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="77-68" StartNode="77" EndNode="68" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="77-68" Count="2" LOD="1">
+                <Data Pos="1919.00,225.00,0.00,1919.00,115.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="78-60" StartNode="78" EndNode="60" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="78-60" Count="2" LOD="1">
+                <Data Pos="1880.00,1199.00,0.00,1880.00,1433.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="79-66" StartNode="79" EndNode="66" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="79-66" Count="2" LOD="1">
+                <Data Pos="1919.00,949.00,0.00,1919.00,808.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="80-64" StartNode="80" EndNode="64" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="80-64" Count="2" LOD="1">
+                <Data Pos="1918.00,1690.00,0.00,1919.00,1500.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="81-82" StartNode="81" EndNode="82" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="81-82" Count="2" LOD="1">
+                <Data Pos="878.00,118.00,0.00,999.00,116.99,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="82-4" StartNode="82" EndNode="4" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="82-4" Count="2" LOD="1">
+                <Data Pos="999.00,116.99,0.00,1143.00,118.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="83-97" StartNode="83" EndNode="97" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="83-97" Count="2" LOD="1">
+                <Data Pos="1920.00,684.01,0.00,1920.00,406.99,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="84-85" StartNode="84" EndNode="85" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="84-85" Count="2" LOD="1">
+                <Data Pos="999.00,79.00,0.00,878.00,79.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="85-70" StartNode="85" EndNode="70" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="85-70" Count="2" LOD="1">
+                <Data Pos="878.00,79.00,0.00,781.00,80.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="86-87" StartNode="86" EndNode="87" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="86-87" Count="2" LOD="1">
+                <Data Pos="500.00,79.00,0.00,299.00,79.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="87-96" StartNode="87" EndNode="96" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="87-96" Count="2" LOD="1">
+                <Data Pos="299.00,79.00,0.00,172.00,80.00,0.00" Time="0.00000,1.00000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="88-6" StartNode="88" EndNode="6" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="88-6" Count="2" LOD="1">
+                <Data Pos="1177.00,225.00,0.00,1177.00,335.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="89-8" StartNode="89" EndNode="8" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="89-8" Count="2" LOD="1">
+                <Data Pos="1282.00,370.00,0.00,1356.00,370.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="90-14" StartNode="90" EndNode="14" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="90-14" Count="2" LOD="1">
+                <Data Pos="1774.00,370.00,0.00,1846.00,370.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="91-99" StartNode="91" EndNode="99" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="91-99" Count="2" LOD="1">
+                <Data Pos="1804.00,80.00,0.00,1728.00,80.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="92-103" StartNode="92" EndNode="103" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="92-103" Count="2" LOD="1">
+                <Data Pos="1282.00,80.00,0.00,1211.00,79.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="93-16" StartNode="93" EndNode="16" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="93-16" Count="2" LOD="1">
+                <Data Pos="1880.00,469.00,0.00,1880.00,520.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="94-58" StartNode="94" EndNode="58" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="94-58" Count="2" LOD="1">
+                <Data Pos="1880.00,684.01,0.00,1880.00,740.99,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="95-78" StartNode="95" EndNode="78" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="95-78" Count="2" LOD="1">
+                <Data Pos="1880.00,949.00,0.00,1880.00,1199.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="96-72" StartNode="96" EndNode="72" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="96-72" Count="2" LOD="1">
+                <Data Pos="172.00,80.00,0.00,115.00,80.00,0.00" Time="0.00000,1.00000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="97-98" StartNode="97" EndNode="98" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="97-98" Count="2" LOD="1">
+                <Data Pos="1920.00,406.99,0.00,1920.00,335.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="97-15" StartNode="97" EndNode="15" NodeType="30" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="97-15" Count="10" LOD="1">
+                <Data Pos="1920.00,406.99,0.00,1920.00,391.00,0.00,1917.00,384.01,0.00,1911.00,378.00,0.00,1902.00,375.00,0.00,1895.00,376.00,0.00,1887.00,378.00,0.00,1883.00,382.00,0.00,1879.00,387.00,0.00,1880.00,406.99,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000,1.50000,1.70000,1.90000,2.10000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="98-77" StartNode="98" EndNode="77" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="98-77" Count="2" LOD="1">
+                <Data Pos="1920.00,335.00,0.00,1919.00,225.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="99-100" StartNode="99" EndNode="100" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="99-100" Count="2" LOD="1">
+                <Data Pos="1728.00,80.00,0.00,1661.00,79.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="100-76" StartNode="100" EndNode="76" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="100-76" Count="2" LOD="1">
+                <Data Pos="1661.00,79.00,0.00,1548.00,80.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="101-102" StartNode="101" EndNode="102" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="101-102" Count="2" LOD="1">
+                <Data Pos="1434.00,79.00,0.00,1367.00,79.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="101-107" StartNode="101" EndNode="107" NodeType="30" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="101-107" Count="9" LOD="1">
+                <Data Pos="1434.00,79.00,0.00,1416.00,79.00,0.00,1408.00,83.99,0.00,1404.00,96.00,0.00,1404.00,101.00,0.00,1407.00,105.99,0.00,1412.00,113.00,0.00,1419.00,118.00,0.00,1434.00,118.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000,1.50000,1.70000,1.90000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="102-92" StartNode="102" EndNode="92" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="102-92" Count="2" LOD="1">
+                <Data Pos="1367.00,79.00,0.00,1282.00,80.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="103-117" StartNode="103" EndNode="117" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="103-117" Count="2" LOD="1">
+                <Data Pos="1211.00,79.00,0.00,1142.00,79.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="103-142" StartNode="103" EndNode="142" NodeType="28" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="103-142" Count="6" LOD="1">
+                <Data Pos="1211.00,79.00,0.00,1195.00,79.00,0.00,1187.00,80.00,0.00,1181.00,82.00,0.00,1176.00,88.00,0.00,1177.00,100.00,0.00" Time="0.00000,1.00000,1.20000,1.40000,1.60000,1.80000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="104-100" StartNode="104" EndNode="100" NodeType="30" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="104-100" Count="10" LOD="1">
+                <Data Pos="1661.00,118.00,0.00,1676.00,118.00,0.00,1681.00,115.00,0.00,1685.00,112.00,0.00,1689.00,107.00,0.00,1690.00,100.00,0.00,1688.00,92.00,0.00,1683.00,86.00,0.00,1677.00,79.00,0.00,1661.00,79.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000,1.50000,1.70000,1.90000,2.10000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="105-104" StartNode="105" EndNode="104" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="105-104" Count="2" LOD="1">
+                <Data Pos="1602.00,118.00,0.00,1661.00,118.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="106-105" StartNode="106" EndNode="105" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="106-105" Count="2" LOD="1">
+                <Data Pos="1535.00,118.00,0.00,1602.00,118.00,0.00" Time="0.00000,1.00000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="107-106" StartNode="107" EndNode="106" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="107-106" Count="2" LOD="1">
+                <Data Pos="1434.00,118.00,0.00,1535.00,118.00,0.00" Time="0.00000,1.00000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="108-11" StartNode="108" EndNode="11" NodeType="16" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="108-11" Count="2" LOD="1">
+                <Data Pos="1579.00,402.00,0.00,1702.00,370.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="109-110" StartNode="109" EndNode="110" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="109-110" Count="2" LOD="1">
+                <Data Pos="1004.00,422.00,0.00,1004.00,363.00,0.00" Time="0.00000,1.00000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="110-22" StartNode="110" EndNode="22" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="110-22" Count="2" LOD="1">
+                <Data Pos="1004.00,363.00,0.00,1005.00,335.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="111-112" StartNode="111" EndNode="112" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="111-112" Count="2" LOD="1">
+                <Data Pos="966.00,403.00,0.00,966.00,461.99,0.00" Time="0.00000,1.00000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="112-24" StartNode="112" EndNode="24" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="112-24" Count="2" LOD="1">
+                <Data Pos="966.00,461.99,0.00,967.00,517.99,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="113-114" StartNode="113" EndNode="114" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="113-114" Count="2" LOD="1">
+                <Data Pos="483.00,422.00,0.00,483.00,363.00,0.00" Time="0.00000,1.00000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="114-30" StartNode="114" EndNode="30" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="114-30" Count="2" LOD="1">
+                <Data Pos="483.00,363.00,0.00,483.00,336.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="115-116" StartNode="115" EndNode="116" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="115-116" Count="2" LOD="1">
+                <Data Pos="444.00,404.00,0.00,444.00,461.99,0.00" Time="0.00000,1.00000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="116-32" StartNode="116" EndNode="32" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="116-32" Count="2" LOD="1">
+                <Data Pos="444.00,461.99,0.00,445.00,556.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="117-84" StartNode="117" EndNode="84" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="117-84" Count="2" LOD="1">
+                <Data Pos="1142.00,79.00,0.00,999.00,79.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="118-62" StartNode="118" EndNode="62" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="118-62" Count="2" LOD="1">
+                <Data Pos="1880.00,1690.00,0.00,1880.00,1879.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="119-79" StartNode="119" EndNode="79" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="119-79" Count="2" LOD="1">
+                <Data Pos="1919.00,1199.00,0.00,1919.00,949.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="120-18" StartNode="120" EndNode="18" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="120-18" Count="2" LOD="1">
+                <Data Pos="1533.00,553.00,0.00,1220.00,553.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="121-26" StartNode="121" EndNode="26" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="121-26" Count="2" LOD="1">
+                <Data Pos="849.00,553.00,0.00,767.00,553.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="122-28" StartNode="122" EndNode="28" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="122-28" Count="2" LOD="1">
+                <Data Pos="609.00,553.00,0.00,517.00,553.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="123-34" StartNode="123" EndNode="34" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="123-34" Count="2" LOD="1">
+                <Data Pos="590.00,591.00,0.00,700.00,591.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="124-36" StartNode="124" EndNode="36" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="124-36" Count="2" LOD="1">
+                <Data Pos="849.00,591.00,0.00,931.00,591.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="125-126" StartNode="125" EndNode="126" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="125-126" Count="2" LOD="1">
+                <Data Pos="966.00,687.00,0.00,966.00,748.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="126-38" StartNode="126" EndNode="38" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="126-38" Count="2" LOD="1">
+                <Data Pos="966.00,748.00,0.00,966.00,808.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="127-128" StartNode="127" EndNode="128" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="127-128" Count="2" LOD="1">
+                <Data Pos="966.00,937.00,0.00,966.00,998.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="128-40" StartNode="128" EndNode="40" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="128-40" Count="2" LOD="1">
+                <Data Pos="966.00,998.00,0.00,966.00,1058.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="129-130" StartNode="129" EndNode="130" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="129-130" Count="2" LOD="1">
+                <Data Pos="966.00,1185.99,0.00,966.00,1247.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="130-42" StartNode="130" EndNode="42" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="130-42" Count="2" LOD="1">
+                <Data Pos="966.00,1247.00,0.00,966.00,1307.01,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="131-44" StartNode="131" EndNode="44" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="131-44" Count="2" LOD="1">
+                <Data Pos="966.00,1418.99,0.00,966.00,1463.01,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="132-46" StartNode="132" EndNode="46" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="132-46" Count="2" LOD="1">
+                <Data Pos="1005.00,1418.99,0.00,1005.00,1374.99,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="133-134" StartNode="133" EndNode="134" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="133-134" Count="2" LOD="1">
+                <Data Pos="1005.00,1247.00,0.00,1005.00,1185.99,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="134-48" StartNode="134" EndNode="48" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="134-48" Count="2" LOD="1">
+                <Data Pos="1005.00,1185.99,0.00,1005.00,1125.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="135-136" StartNode="135" EndNode="136" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="135-136" Count="2" LOD="1">
+                <Data Pos="1005.00,998.00,0.00,1005.00,937.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="136-50" StartNode="136" EndNode="50" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="136-50" Count="2" LOD="1">
+                <Data Pos="1005.00,937.00,0.00,1005.00,876.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="137-138" StartNode="137" EndNode="138" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="137-138" Count="2" LOD="1">
+                <Data Pos="1005.00,748.00,0.00,1005.00,687.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="138-52" StartNode="138" EndNode="52" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="138-52" Count="2" LOD="1">
+                <Data Pos="1005.00,687.00,0.00,1005.00,626.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="139-54" StartNode="139" EndNode="54" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="139-54" Count="2" LOD="1">
+                <Data Pos="1096.00,591.00,0.00,1153.00,591.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="140-141" StartNode="140" EndNode="141" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="140-141" Count="2" LOD="1">
+                <Data Pos="1429.00,591.00,0.00,1638.00,591.00,0.00" Time="0.00000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="141-56" StartNode="141" EndNode="56" NodeType="0" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="141-56" Count="2" LOD="1">
+                <Data Pos="1638.00,591.00,0.00,1846.00,591.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="142-117" StartNode="142" EndNode="117" NodeType="30" Speed="0" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="142-117" Count="5" LOD="1">
+                <Data Pos="1177.00,100.00,0.00,1177.00,89.00,0.00,1171.00,84.00,0.00,1164.00,79.00,0.00,1142.00,78.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="142-5" StartNode="142" EndNode="5" NodeType="29" Speed="0" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="142-5" Count="2" LOD="1">
+                <Data Pos="1177.00,100.00,0.00,1177.00,153.00,0.00" Time="0.00000,0.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="143-71" StartNode="143" EndNode="71" NodeType="30" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="143-71" Count="5" LOD="1">
+                <Data Pos="739.00,99.00,0.00,738.00,91.00,0.00,733.00,86.00,0.00,727.00,81.00,0.00,713.00,79.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="143-3" StartNode="143" EndNode="3" NodeType="30" Speed="0" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="143-3" Count="7" LOD="1">
+                <Data Pos="739.00,99.00,0.00,739.00,103.00,0.00,742.00,107.00,0.00,749.00,111.00,0.00,758.00,114.00,0.00,767.00,117.00,0.00,781.00,118.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000,1.30000,1.50000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+        <cCarDrivingPath Name="144-98" StartNode="144" EndNode="98" NodeType="29" Speed="52685" OffsetAcc="0,0" OffsetSpeed="0,0">
+            <cCurveWithTime Name="144-98" Count="5" LOD="1">
+                <Data Pos="1892.00,370.00,0.00,1910.00,368.00,0.00,1915.00,363.00,0.00,1920.00,354.00,0.00,1919.00,334.00,0.00" Time="0.00000,0.50000,0.70000,0.90000,1.10000" />
+            </cCurveWithTime>
+        </cCarDrivingPath>
+    </cCarDrivingPathManager>
+</cCarDrivingNodesApp>

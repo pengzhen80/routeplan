@@ -1,0 +1,2 @@
+/bin/ar qc libgrpc_dbmanagement.a  CMakeFiles/grpc_dbmanagement.dir/dbmanagement_ordermanagement.grpc.pb.cc.o CMakeFiles/grpc_dbmanagement.dir/dbmanagement_ordermanagement.pb.cc.o
+/bin/ranlib libgrpc_dbmanagement.a

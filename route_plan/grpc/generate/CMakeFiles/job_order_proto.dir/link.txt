@@ -1,0 +1,2 @@
+/usr/bin/ar qc libjob_order_proto.a  CMakeFiles/job_order_proto.dir/jobmanagement_ordermanagement.pb.cc.o CMakeFiles/job_order_proto.dir/jobmanagement_ordermanagement.grpc.pb.cc.o
+/usr/bin/ranlib libjob_order_proto.a

@@ -1,0 +1,2 @@
+/bin/ar qc libastar.a  CMakeFiles/astar.dir/Astar.cc.o CMakeFiles/astar.dir/CoAstar.cc.o
+/bin/ranlib libastar.a

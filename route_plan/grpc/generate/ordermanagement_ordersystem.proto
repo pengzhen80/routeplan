@@ -1,0 +1,56 @@
+syntax = "proto3";
+
+package grpc_ordermanagement;
+
+service OrderManagement_OrderSystem_Service{
+  	rpc AddOrder(Request_AddOrder) returns(Reply_AddOrder){}
+    rpc CancelOrder(Request_CancelOrder) returns(Reply_CancelOrder){}
+}
+
+message Request_AddOrder{	
+	optional int32 number = 1;
+
+    enum TYPE{
+        MEAL_DELIVERY = 0;
+        MEAL_RECEPTION = 1;
+    }
+
+	optional TYPE type = 2;
+
+    message Goods_Info
+	{
+		optional string name=1;
+	}
+
+	message Order_Data
+	{
+		optional Goods_Info goods_info = 1;
+		optional int32 goods_pos = 2;
+		optional int32 target_pos = 3;
+	}
+	optional Order_Data data = 3;
+}
+
+message Reply_AddOrder
+{
+	optional int32 order_number = 1;
+}
+
+message Request_CancelOrder
+{
+    optional int32 order_number = 1;
+    enum TYPE
+    {
+        CANCEL = 0;
+    }
+    optional TYPE type = 2;
+}
+
+message Reply_CancelOrder
+{
+    enum TYPE{
+        SUCCESS = 0;
+        FAIL = 1;
+    }
+    optional TYPE reply_cancel = 1;
+}

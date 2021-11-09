@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/source/simulator_server_track/route_plan/Car/car.cc
+car.h
+/root/source/simulator_server_track/route_plan/Car/car.h
+
+/root/source/simulator_server_track/route_plan/Car/car.h
+vector
+-
+

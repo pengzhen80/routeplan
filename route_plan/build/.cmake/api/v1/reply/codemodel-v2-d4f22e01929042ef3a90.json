@@ -1,0 +1,481 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						13,
+						14,
+						17
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"build" : "Algorithm",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Algorithm",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "XML",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "XML",
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"build" : "CallCar",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "CallCar",
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"build" : "Map",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Map",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "Car",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Car",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "TrafficManager",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "TrafficManager",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "OrderManagement",
+					"childIndexes" : 
+					[
+						8,
+						11
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "OrderManagement",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "OrderManagement/grpc_files",
+					"childIndexes" : 
+					[
+						9,
+						10
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"parentIndex" : 7,
+					"projectIndex" : 0,
+					"source" : "OrderManagement/grpc_files"
+				},
+				{
+					"build" : "OrderManagement/grpc_files/grpc_dbmanagement_files",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 0,
+					"source" : "OrderManagement/grpc_files/grpc_dbmanagement_files",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "OrderManagement/grpc_files/grpc_jobmanagement_files",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 0,
+					"source" : "OrderManagement/grpc_files/grpc_jobmanagement_files",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "OrderManagement/Core",
+					"childIndexes" : 
+					[
+						12
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"parentIndex" : 7,
+					"projectIndex" : 0,
+					"source" : "OrderManagement/Core"
+				},
+				{
+					"build" : "OrderManagement/Core/Core_Connect",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"parentIndex" : 11,
+					"projectIndex" : 0,
+					"source" : "OrderManagement/Core/Core_Connect",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "DBManagement",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "DBManagement",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "JobManagement",
+					"childIndexes" : 
+					[
+						15
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "JobManagement",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "JobManagement/grpc_files",
+					"childIndexes" : 
+					[
+						16
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"parentIndex" : 14,
+					"projectIndex" : 0,
+					"source" : "JobManagement/grpc_files"
+				},
+				{
+					"build" : "JobManagement/grpc_files/jobmanagement_ordermanagement",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"parentIndex" : 15,
+					"projectIndex" : 0,
+					"source" : "JobManagement/grpc_files/jobmanagement_ordermanagement",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "ConfigurationManager",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "ConfigurationManager",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						14,
+						15,
+						16,
+						17
+					],
+					"name" : "route_plan",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13
+					],
+					"name" : "mongodbmanager",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "astar::@0717138d1b5d78d31daf",
+					"jsonFile" : "target-astar-Debug-6b4b6550b0af7028b538.json",
+					"name" : "astar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "car::@8fba18c61d2a5daf4253",
+					"jsonFile" : "target-car-Debug-e1d796a729c63620ef56.json",
+					"name" : "car",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 17,
+					"id" : "configurationmanager::@fd0fce2ad990e85819e4",
+					"jsonFile" : "target-configurationmanager-Debug-a988aa23c9807346cd45.json",
+					"name" : "configurationmanager",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "core_connect::@d4ad44113e9fcacf5f58",
+					"jsonFile" : "target-core_connect-Debug-839702e9c316ca0a7ea1.json",
+					"name" : "core_connect",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "grpc_dbmanagement::@ec262d83f06e0776f808",
+					"jsonFile" : "target-grpc_dbmanagement-Debug-42fb31cd8a3fd2b8d103.json",
+					"name" : "grpc_dbmanagement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "grpc_jobmanagement::@db0fc9bb28893b068402",
+					"jsonFile" : "target-grpc_jobmanagement-Debug-c6394828a96a4c7e21a1.json",
+					"name" : "grpc_jobmanagement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "jobmanagement::@2e8445dc010c354763c8",
+					"jsonFile" : "target-jobmanagement-Debug-777988e2ae3c2934497e.json",
+					"name" : "jobmanagement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "jobmanagement_ordermanagement::@6edda6bb5f3ebf473a21",
+					"jsonFile" : "target-jobmanagement_ordermanagement-Debug-39471026a0d7387dbc6b.json",
+					"name" : "jobmanagement_ordermanagement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "map::@d3a259bce5b3b5170e27",
+					"jsonFile" : "target-map-Debug-142aa8997cd3d84f045c.json",
+					"name" : "map",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "mongodbmanager::@54d0c1d17f90298d1e3b",
+					"jsonFile" : "target-mongodbmanager-Debug-e6e61dd4caef7ed98154.json",
+					"name" : "mongodbmanager",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "ordermanagement::@787b253ae9062c368046",
+					"jsonFile" : "target-ordermanagement-Debug-1954bc2b7575c3b53f9f.json",
+					"name" : "ordermanagement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "route_plan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-route_plan-Debug-1cacf89282acc7a860fa.json",
+					"name" : "route_plan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "server::@a4ee5cb8235ac0d39981",
+					"jsonFile" : "target-server-Debug-880f8259d7175168a2b3.json",
+					"name" : "server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "trafficmanager::@5ff8275d01e14aa96788",
+					"jsonFile" : "target-trafficmanager-Debug-fcce2e519273d209c708.json",
+					"name" : "trafficmanager",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "xml::@576c21ba30797c603355",
+					"jsonFile" : "target-xml-Debug-5720b6ff5caf40644571.json",
+					"name" : "xml",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/root/source/simulator_server_track/route_plan/build",
+		"source" : "/root/source/simulator_server_track/route_plan"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

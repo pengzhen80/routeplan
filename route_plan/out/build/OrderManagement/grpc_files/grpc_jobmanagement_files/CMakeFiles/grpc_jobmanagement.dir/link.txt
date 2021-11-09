@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgrpc_jobmanagement.a  CMakeFiles/grpc_jobmanagement.dir/jobmanagement_ordermanagement.grpc.pb.cc.o CMakeFiles/grpc_jobmanagement.dir/jobmanagement_ordermanagement.pb.cc.o
+/usr/bin/ranlib libgrpc_jobmanagement.a

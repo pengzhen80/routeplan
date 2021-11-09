@@ -1,0 +1,2 @@
+/bin/ar qc libcore_connect.a  CMakeFiles/core_connect.dir/core_connect.cc.o
+/bin/ranlib libcore_connect.a

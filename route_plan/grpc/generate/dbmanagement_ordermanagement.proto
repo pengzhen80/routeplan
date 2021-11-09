@@ -1,0 +1,33 @@
+syntax = "proto3";
+
+package grpc_dbmanagement;
+
+service DBManagement_OrderManagement_Service{
+  	rpc Insert(Request_Insert) returns(Reply_Insert){}
+}
+
+message Request_Insert{
+	optional int32 number = 1;
+  	optional int32 time = 2;
+	
+	message Goods_Info
+	{
+		optional string name=1;
+	}
+
+	message Order_Data
+	{
+		optional Goods_Info goods_info = 1;
+		optional int32 goods_pos = 2;
+		optional int32 target_pos = 3;
+	}
+	optional Order_Data data = 3;
+	optional string type = 4;
+	optional string result =5;
+}
+
+message Reply_Insert
+{
+	optional bool insert_result = 1;
+}
+

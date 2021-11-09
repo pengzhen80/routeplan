@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+package grpc_ordermanagement;
+
+service OrderManagement_JobManagement_Service{
+  	rpc SetOrderState(Request_SetOrderState) returns(Reply_SetOrderState){}
+}
+
+message Request_SetOrderState{	
+	optional int32 number = 1;
+	enum TYPE{
+		FINISH = 0;
+		CANCEL = 1;
+	}
+	optional TYPE type = 2;
+}
+
+message Reply_SetOrderState
+{
+	optional bool reply_set = 1;
+}
+

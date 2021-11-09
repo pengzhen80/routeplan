@@ -1,0 +1,2 @@
+/bin/ar qc libjobmanagement.a  CMakeFiles/jobmanagement.dir/jobmanagement.cc.o CMakeFiles/jobmanagement.dir/jobmanagement_server.cc.o
+/bin/ranlib libjobmanagement.a

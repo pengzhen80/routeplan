@@ -1,0 +1,2 @@
+/usr/bin/ar qc libordermanagement.a  CMakeFiles/ordermanagement.dir/ordermanagement.cc.o CMakeFiles/ordermanagement.dir/ordermanagement_client.cc.o CMakeFiles/ordermanagement.dir/ordermanagement_server.cc.o CMakeFiles/ordermanagement.dir/ordermanagement_jobmanagement.grpc.pb.cc.o CMakeFiles/ordermanagement.dir/ordermanagement_jobmanagement.pb.cc.o CMakeFiles/ordermanagement.dir/ordermanagement_ordersystem.grpc.pb.cc.o CMakeFiles/ordermanagement.dir/ordermanagement_ordersystem.pb.cc.o CMakeFiles/ordermanagement.dir/TinkerBoardServer.cc.o
+/usr/bin/ranlib libordermanagement.a

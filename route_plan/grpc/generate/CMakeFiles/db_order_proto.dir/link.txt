@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdb_order_proto.a  CMakeFiles/db_order_proto.dir/dbmanagement_ordermanagement.pb.cc.o CMakeFiles/db_order_proto.dir/dbmanagement_ordermanagement.grpc.pb.cc.o
+/usr/bin/ranlib libdb_order_proto.a

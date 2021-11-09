@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtrafficmanager.a  CMakeFiles/trafficmanager.dir/trafficmanager.cc.o
+/usr/bin/ranlib libtrafficmanager.a

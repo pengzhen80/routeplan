@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+647581c4bc2c00b1d000f852098e8513 dbmanagement_ordermanagement.pb.cc
+f2e2469b7473b9c349bbab944e3aea15 jobmanagement_ordermanagement.pb.cc
+6a5a572a7e104ea6203fb714cf3d9ddc ordermanagement_jobmanagement.pb.cc
+fe8eb2cbf385220688f1e09e3e72f16e ordermanagement_ordersystem.pb.cc

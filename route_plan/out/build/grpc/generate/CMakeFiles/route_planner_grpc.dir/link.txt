@@ -1,0 +1,2 @@
+/usr/bin/ar qc libroute_planner_grpc.a  CMakeFiles/route_planner_grpc.dir/route_planner.grpc.pb.cc.o CMakeFiles/route_planner_grpc.dir/route_planner.pb.cc.o
+/usr/bin/ranlib libroute_planner_grpc.a

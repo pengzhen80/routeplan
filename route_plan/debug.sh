@@ -1,0 +1,1 @@
+cd out/build; gdb route_plan

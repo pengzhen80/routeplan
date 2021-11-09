@@ -1,0 +1,2 @@
+/usr/bin/ar qc librp_grpc_proto.a  CMakeFiles/rp_grpc_proto.dir/route_planner.grpc.pb.cc.o CMakeFiles/rp_grpc_proto.dir/route_planner.pb.cc.o
+/usr/bin/ranlib librp_grpc_proto.a

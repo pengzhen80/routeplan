@@ -1,0 +1,199 @@
+[
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++  -DCARES_STATICLIB -I../Algorithm -I../XML -I../CallCar -I../Map -I../Car -I../TrafficManager -I../OrderManagement -I../DBManagement -I../JobManagement -I../ConfigurationManager -I/usr/local/include/mongocxx/v_noabi -I/usr/local/include/bsoncxx/v_noabi -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I/usr/local/lib -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp -isystem /root/.local/include  -g   -pthread -o CMakeFiles/route_plan.dir/main.cc.o -c /root/source/simulator_server_track/route_plan/main.cc",
+  "file": "/root/source/simulator_server_track/route_plan/main.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++    -g   -o Algorithm/CMakeFiles/astar.dir/Astar.cc.o -c /root/source/simulator_server_track/route_plan/Algorithm/Astar.cc",
+  "file": "/root/source/simulator_server_track/route_plan/Algorithm/Astar.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++    -g   -o Algorithm/CMakeFiles/astar.dir/CoAstar.cc.o -c /root/source/simulator_server_track/route_plan/Algorithm/CoAstar.cc",
+  "file": "/root/source/simulator_server_track/route_plan/Algorithm/CoAstar.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++    -g   -o XML/CMakeFiles/xml.dir/tinyxml2.cpp.o -c /root/source/simulator_server_track/route_plan/XML/tinyxml2.cpp",
+  "file": "/root/source/simulator_server_track/route_plan/XML/tinyxml2.cpp"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++    -g   -o XML/CMakeFiles/xml.dir/xmltomap.cc.o -c /root/source/simulator_server_track/route_plan/XML/xmltomap.cc",
+  "file": "/root/source/simulator_server_track/route_plan/XML/xmltomap.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++    -g   -o CallCar/CMakeFiles/server.dir/CallCarServer.cc.o -c /root/source/simulator_server_track/route_plan/CallCar/CallCarServer.cc",
+  "file": "/root/source/simulator_server_track/route_plan/CallCar/CallCarServer.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++    -g   -o Map/CMakeFiles/map.dir/map.cc.o -c /root/source/simulator_server_track/route_plan/Map/map.cc",
+  "file": "/root/source/simulator_server_track/route_plan/Map/map.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++    -g   -o Car/CMakeFiles/car.dir/car.cc.o -c /root/source/simulator_server_track/route_plan/Car/car.cc",
+  "file": "/root/source/simulator_server_track/route_plan/Car/car.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++    -g   -o TrafficManager/CMakeFiles/trafficmanager.dir/trafficmanager.cc.o -c /root/source/simulator_server_track/route_plan/TrafficManager/trafficmanager.cc",
+  "file": "/root/source/simulator_server_track/route_plan/TrafficManager/trafficmanager.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++  -DCARES_STATICLIB -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp -isystem /root/.local/include  -g   -pthread -o OrderManagement/CMakeFiles/ordermanagement.dir/ordermanagement.cc.o -c /root/source/simulator_server_track/route_plan/OrderManagement/ordermanagement.cc",
+  "file": "/root/source/simulator_server_track/route_plan/OrderManagement/ordermanagement.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++  -DCARES_STATICLIB -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp -isystem /root/.local/include  -g   -pthread -o OrderManagement/CMakeFiles/ordermanagement.dir/ordermanagement_client.cc.o -c /root/source/simulator_server_track/route_plan/OrderManagement/ordermanagement_client.cc",
+  "file": "/root/source/simulator_server_track/route_plan/OrderManagement/ordermanagement_client.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++  -DCARES_STATICLIB -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp -isystem /root/.local/include  -g   -pthread -o OrderManagement/CMakeFiles/ordermanagement.dir/ordermanagement_server.cc.o -c /root/source/simulator_server_track/route_plan/OrderManagement/ordermanagement_server.cc",
+  "file": "/root/source/simulator_server_track/route_plan/OrderManagement/ordermanagement_server.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++  -DCARES_STATICLIB -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp -isystem /root/.local/include  -g   -pthread -o OrderManagement/CMakeFiles/ordermanagement.dir/ordermanagement_jobmanagement.grpc.pb.cc.o -c /root/source/simulator_server_track/route_plan/OrderManagement/ordermanagement_jobmanagement.grpc.pb.cc",
+  "file": "/root/source/simulator_server_track/route_plan/OrderManagement/ordermanagement_jobmanagement.grpc.pb.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++  -DCARES_STATICLIB -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp -isystem /root/.local/include  -g   -pthread -o OrderManagement/CMakeFiles/ordermanagement.dir/ordermanagement_jobmanagement.pb.cc.o -c /root/source/simulator_server_track/route_plan/OrderManagement/ordermanagement_jobmanagement.pb.cc",
+  "file": "/root/source/simulator_server_track/route_plan/OrderManagement/ordermanagement_jobmanagement.pb.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++  -DCARES_STATICLIB -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp -isystem /root/.local/include  -g   -pthread -o OrderManagement/CMakeFiles/ordermanagement.dir/ordermanagement_ordersystem.grpc.pb.cc.o -c /root/source/simulator_server_track/route_plan/OrderManagement/ordermanagement_ordersystem.grpc.pb.cc",
+  "file": "/root/source/simulator_server_track/route_plan/OrderManagement/ordermanagement_ordersystem.grpc.pb.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++  -DCARES_STATICLIB -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp -isystem /root/.local/include  -g   -pthread -o OrderManagement/CMakeFiles/ordermanagement.dir/ordermanagement_ordersystem.pb.cc.o -c /root/source/simulator_server_track/route_plan/OrderManagement/ordermanagement_ordersystem.pb.cc",
+  "file": "/root/source/simulator_server_track/route_plan/OrderManagement/ordermanagement_ordersystem.pb.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++  -DCARES_STATICLIB -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp -isystem /root/.local/include  -g   -pthread -o OrderManagement/CMakeFiles/ordermanagement.dir/TinkerBoardServer.cc.o -c /root/source/simulator_server_track/route_plan/OrderManagement/TinkerBoardServer.cc",
+  "file": "/root/source/simulator_server_track/route_plan/OrderManagement/TinkerBoardServer.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++   -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp  -g   -o OrderManagement/grpc_files/grpc_dbmanagement_files/CMakeFiles/grpc_dbmanagement.dir/dbmanagement_ordermanagement.grpc.pb.cc.o -c /root/source/simulator_server_track/route_plan/OrderManagement/grpc_files/grpc_dbmanagement_files/dbmanagement_ordermanagement.grpc.pb.cc",
+  "file": "/root/source/simulator_server_track/route_plan/OrderManagement/grpc_files/grpc_dbmanagement_files/dbmanagement_ordermanagement.grpc.pb.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++   -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp  -g   -o OrderManagement/grpc_files/grpc_dbmanagement_files/CMakeFiles/grpc_dbmanagement.dir/dbmanagement_ordermanagement.pb.cc.o -c /root/source/simulator_server_track/route_plan/OrderManagement/grpc_files/grpc_dbmanagement_files/dbmanagement_ordermanagement.pb.cc",
+  "file": "/root/source/simulator_server_track/route_plan/OrderManagement/grpc_files/grpc_dbmanagement_files/dbmanagement_ordermanagement.pb.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++   -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp  -g   -o OrderManagement/grpc_files/grpc_jobmanagement_files/CMakeFiles/grpc_jobmanagement.dir/jobmanagement_ordermanagement.grpc.pb.cc.o -c /root/source/simulator_server_track/route_plan/OrderManagement/grpc_files/grpc_jobmanagement_files/jobmanagement_ordermanagement.grpc.pb.cc",
+  "file": "/root/source/simulator_server_track/route_plan/OrderManagement/grpc_files/grpc_jobmanagement_files/jobmanagement_ordermanagement.grpc.pb.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++   -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp  -g   -o OrderManagement/grpc_files/grpc_jobmanagement_files/CMakeFiles/grpc_jobmanagement.dir/jobmanagement_ordermanagement.pb.cc.o -c /root/source/simulator_server_track/route_plan/OrderManagement/grpc_files/grpc_jobmanagement_files/jobmanagement_ordermanagement.pb.cc",
+  "file": "/root/source/simulator_server_track/route_plan/OrderManagement/grpc_files/grpc_jobmanagement_files/jobmanagement_ordermanagement.pb.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++   -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp  -g   -o OrderManagement/Core/Core_Connect/CMakeFiles/core_connect.dir/core_connect.cc.o -c /root/source/simulator_server_track/route_plan/OrderManagement/Core/Core_Connect/core_connect.cc",
+  "file": "/root/source/simulator_server_track/route_plan/OrderManagement/Core/Core_Connect/core_connect.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++  -DCARES_STATICLIB -I/usr/local/include/mongocxx/v_noabi -I/usr/local/include/bsoncxx/v_noabi -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I/usr/local/lib -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp -isystem /root/.local/include  -g   -pthread -o DBManagement/CMakeFiles/mongodbmanager.dir/mongodbmanager.cc.o -c /root/source/simulator_server_track/route_plan/DBManagement/mongodbmanager.cc",
+  "file": "/root/source/simulator_server_track/route_plan/DBManagement/mongodbmanager.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++  -DCARES_STATICLIB -I/usr/local/include/mongocxx/v_noabi -I/usr/local/include/bsoncxx/v_noabi -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I/usr/local/lib -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp -isystem /root/.local/include  -g   -pthread -o DBManagement/CMakeFiles/mongodbmanager.dir/dbmanagement_server.cc.o -c /root/source/simulator_server_track/route_plan/DBManagement/dbmanagement_server.cc",
+  "file": "/root/source/simulator_server_track/route_plan/DBManagement/dbmanagement_server.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++  -DCARES_STATICLIB -I/usr/local/include/mongocxx/v_noabi -I/usr/local/include/bsoncxx/v_noabi -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I/usr/local/lib -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp -isystem /root/.local/include  -g   -pthread -o DBManagement/CMakeFiles/mongodbmanager.dir/dbmanagement_ordermanagement.grpc.pb.cc.o -c /root/source/simulator_server_track/route_plan/DBManagement/dbmanagement_ordermanagement.grpc.pb.cc",
+  "file": "/root/source/simulator_server_track/route_plan/DBManagement/dbmanagement_ordermanagement.grpc.pb.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++  -DCARES_STATICLIB -I/usr/local/include/mongocxx/v_noabi -I/usr/local/include/bsoncxx/v_noabi -I/usr/local/include/libmongoc-1.0 -I/usr/local/include/libbson-1.0 -I/usr/local/lib -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp -isystem /root/.local/include  -g   -pthread -o DBManagement/CMakeFiles/mongodbmanager.dir/dbmanagement_ordermanagement.pb.cc.o -c /root/source/simulator_server_track/route_plan/DBManagement/dbmanagement_ordermanagement.pb.cc",
+  "file": "/root/source/simulator_server_track/route_plan/DBManagement/dbmanagement_ordermanagement.pb.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++  -DCARES_STATICLIB -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp -isystem /root/.local/include  -g   -pthread -o JobManagement/CMakeFiles/jobmanagement.dir/jobmanagement.cc.o -c /root/source/simulator_server_track/route_plan/JobManagement/jobmanagement.cc",
+  "file": "/root/source/simulator_server_track/route_plan/JobManagement/jobmanagement.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++  -DCARES_STATICLIB -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp -isystem /root/.local/include  -g   -pthread -o JobManagement/CMakeFiles/jobmanagement.dir/jobmanagement_server.cc.o -c /root/source/simulator_server_track/route_plan/JobManagement/jobmanagement_server.cc",
+  "file": "/root/source/simulator_server_track/route_plan/JobManagement/jobmanagement_server.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++   -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp  -g   -o JobManagement/grpc_files/jobmanagement_ordermanagement/CMakeFiles/jobmanagement_ordermanagement.dir/jobmanagement_ordermanagement.grpc.pb.cc.o -c /root/source/simulator_server_track/route_plan/JobManagement/grpc_files/jobmanagement_ordermanagement/jobmanagement_ordermanagement.grpc.pb.cc",
+  "file": "/root/source/simulator_server_track/route_plan/JobManagement/grpc_files/jobmanagement_ordermanagement/jobmanagement_ordermanagement.grpc.pb.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++   -I/usr/local/include/grpc -I/usr/local/include/grpc++ -I/usr/local/include/grpcpp  -g   -o JobManagement/grpc_files/jobmanagement_ordermanagement/CMakeFiles/jobmanagement_ordermanagement.dir/jobmanagement_ordermanagement.pb.cc.o -c /root/source/simulator_server_track/route_plan/JobManagement/grpc_files/jobmanagement_ordermanagement/jobmanagement_ordermanagement.pb.cc",
+  "file": "/root/source/simulator_server_track/route_plan/JobManagement/grpc_files/jobmanagement_ordermanagement/jobmanagement_ordermanagement.pb.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++    -g   -o ConfigurationManager/CMakeFiles/configurationmanager.dir/configurationmanager.cc.o -c /root/source/simulator_server_track/route_plan/ConfigurationManager/configurationmanager.cc",
+  "file": "/root/source/simulator_server_track/route_plan/ConfigurationManager/configurationmanager.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++    -g   -o ConfigurationManager/CMakeFiles/configurationmanager.dir/carmanager.cc.o -c /root/source/simulator_server_track/route_plan/ConfigurationManager/carmanager.cc",
+  "file": "/root/source/simulator_server_track/route_plan/ConfigurationManager/carmanager.cc"
+},
+
+{
+  "directory": "/root/source/simulator_server_track/route_plan/build",
+  "command": "/bin/c++    -g   -o ConfigurationManager/CMakeFiles/configurationmanager.dir/mapmanager.cc.o -c /root/source/simulator_server_track/route_plan/ConfigurationManager/mapmanager.cc",
+  "file": "/root/source/simulator_server_track/route_plan/ConfigurationManager/mapmanager.cc"
+}
+]

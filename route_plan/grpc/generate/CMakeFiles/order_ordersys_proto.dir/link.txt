@@ -1,0 +1,2 @@
+/usr/bin/ar qc liborder_ordersys_proto.a  CMakeFiles/order_ordersys_proto.dir/ordermanagement_ordersystem.pb.cc.o CMakeFiles/order_ordersys_proto.dir/ordermanagement_ordersystem.grpc.pb.cc.o
+/usr/bin/ranlib liborder_ordersys_proto.a

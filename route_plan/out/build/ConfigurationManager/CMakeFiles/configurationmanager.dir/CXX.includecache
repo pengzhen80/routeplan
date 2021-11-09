@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/source/simulator_server_track/route_plan/ConfigurationManager/carmanager.h
+configuration_common.h
+/root/source/simulator_server_track/route_plan/ConfigurationManager/configuration_common.h
+
+/root/source/simulator_server_track/route_plan/ConfigurationManager/configuration_common.h
+vector
+-
+
+/root/source/simulator_server_track/route_plan/ConfigurationManager/configurationmanager.cc
+configurationmanager.h
+/root/source/simulator_server_track/route_plan/ConfigurationManager/configurationmanager.h
+
+/root/source/simulator_server_track/route_plan/ConfigurationManager/configurationmanager.h
+vector
+-
+configuration_common.h
+/root/source/simulator_server_track/route_plan/ConfigurationManager/configuration_common.h
+carmanager.h
+/root/source/simulator_server_track/route_plan/ConfigurationManager/carmanager.h
+mapmanager.h
+/root/source/simulator_server_track/route_plan/ConfigurationManager/mapmanager.h
+
+/root/source/simulator_server_track/route_plan/ConfigurationManager/mapmanager.cc
+mapmanager.h
+/root/source/simulator_server_track/route_plan/ConfigurationManager/mapmanager.h
+
+/root/source/simulator_server_track/route_plan/ConfigurationManager/mapmanager.h
+vector
+-
+configuration_common.h
+/root/source/simulator_server_track/route_plan/ConfigurationManager/configuration_common.h
+

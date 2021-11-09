@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/source/simulator_server_track/route_plan/JobManagement/jobmanagement.cc
+jobmanagement.h
+/root/source/simulator_server_track/route_plan/JobManagement/jobmanagement.h
+
+/root/source/simulator_server_track/route_plan/JobManagement/jobmanagement.h
+iostream
+-
+thread
+-
+mutex
+-
+vector
+-
+jobmanagement_common.h
+/root/source/simulator_server_track/route_plan/JobManagement/jobmanagement_common.h
+
+/root/source/simulator_server_track/route_plan/JobManagement/jobmanagement_common.h
+string
+-
+vector
+-
+unordered_set
+-
+queue
+-
+unordered_map
+-
+

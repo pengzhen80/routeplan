@@ -1,0 +1,44 @@
+syntax = "proto3";
+
+package grpc_jobmanagement;
+
+service JobManagement_OrderManagement_Service{
+  	rpc ActOrder(Request_Order) returns(Reply_Act){}
+    rpc CancelOrder(Request_Order) returns(Reply_Cancel){}
+}
+
+message Request_Order{	
+    optional int32 number = 1;
+
+    enum TYPE{
+        MEAL_DELIVERY = 0;
+        MEAL_RECEPTION = 1;
+    }
+
+	optional TYPE type = 2;
+
+    message Goods_Info
+	{
+		optional string name=1;
+	}
+
+	message Order_Data
+	{
+		optional Goods_Info goods_info = 1;
+		optional int32 goods_pos = 2;
+		optional int32 target_pos = 3;
+	}
+	optional Order_Data data = 3;
+
+    optional int32 car_id = 4;
+}
+
+message Reply_Act
+{
+	optional bool reply_act = 1;
+}
+
+message Reply_Cancel
+{
+	optional bool reply_cancel = 1;
+}

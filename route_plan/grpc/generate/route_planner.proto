@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+package route_planner;
+
+service RoutePlanner{
+  	rpc SendRequest(Request) returns(Reply){}
+}
+
+message Request{
+	int32 start_id=1;
+  	int32 end_id=2;
+}
+
+message Reply
+{
+	repeated int32 ids = 1;
+}
+
+message Car_order{
+	enum Car
+	{
+		CAR_RUN = 0;
+		CAR_STOP = 1;
+		CAR_LEFT = 2;
+		CAR_RIGHT = 3;
+	}
+	Car car = 1;
+}

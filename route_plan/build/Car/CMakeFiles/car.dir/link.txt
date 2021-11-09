@@ -1,0 +1,2 @@
+/bin/ar qc libcar.a  CMakeFiles/car.dir/car.cc.o
+/bin/ranlib libcar.a
